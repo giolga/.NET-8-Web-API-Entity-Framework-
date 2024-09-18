@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperHeroAPI-DotNet8", "SuperHeroAPI-DotNet8\SuperHeroAPI-DotNet8.csproj", "{22511306-CE34-410E-A542-B017B9B11FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22511306-CE34-410E-A542-B017B9B11FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22511306-CE34-410E-A542-B017B9B11FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22511306-CE34-410E-A542-B017B9B11FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22511306-CE34-410E-A542-B017B9B11FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9180BA8-A207-476D-B4A3-119135A6E801}
+	EndGlobalSection
+EndGlobal
